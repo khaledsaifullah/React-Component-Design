@@ -1,0 +1,998 @@
+ @media screen and (max-width: 1200px) {
+	.search-content {
+		padding: 0 15px;
+	}
+	.search-content-body{
+		width: 100%;
+	}
+	 .choose-service-content  .ant-card.filter-card {
+		width: calc(100% / 3 - 30px);
+		margin: 0 10px;
+	}
+	.choose-service-content  .choose-service-content-detail {
+		justify-content: center;
+	}
+	 .choose-service-content .filter-card-content ul li span {
+		font-size: 15px;
+	}
+
+    .service-content .service-content-slider{
+		padding-left: 15px;
+		padding-right: 15px;
+	 }
+	 .service-content-slider .service-item {
+		 padding: 0 10px;
+	 }
+	 .ant-card.filter-card{
+		 margin: 0 10px;
+	 }
+	 .grab-service-quick  .grab-service-item {
+		 overflow: hidden;
+	 }
+	 .grab-service-quick .grab-service-item ul li {
+		 padding: 5px;
+		 margin: 6px 8px;
+		 flex-basis: 170px;
+		 height: 115px;
+		 width: 170px;
+	 }
+	 .grab-service-quick .grab-service-item ul li label{
+		 font-size: 14px;
+	 }
+	.myfooter-container  .footer-top-shape {
+		 height: 60px;
+	 }
+	 .myfooter-container  .paperplaneshape{
+		top: -50px;
+	 }
+	 .myfooter-container  .paperplaneshape svg {
+		 width: 50%;
+	 }
+	 .choose-service-content  .filter-card .ant-card-head-title{
+		 font-size: 22px;
+	 }
+	 .laboratorygraphic img {
+		 max-width: 130px;
+	 }
+	 .body-container .grant-fellowship-content {
+		 padding: 0 10px;
+	 }
+	 .body-container .service-content-area {
+		 padding: 40px 15px 0 15px;
+	 }
+	 .body-container .service-content-area {
+		 padding: 40px 15px 0 15px;
+	 }
+	 .body-container .service-tab-title h4 {
+		 font-size: 25px;
+		 line-height: 25px;
+		 padding: 0 0 15px 0;
+		 margin: 0;
+	 }
+	 .body-container .serviceseeker-btn button{
+		 width: auto;
+	 }
+	 .body-container .tabdata-text p {
+		 font-size: 20px;
+		 line-height: 25px;
+	 }
+	 .body-container .tabdata-text h3 {
+		 font-size: 25px;
+		 line-height: 35px;
+	 }
+
+
+	 .body-container .affiliated-block {
+		 min-height: auto;
+		 width: calc(100% / 3 - 10px);
+		 margin: 0 0 25px 0;
+		 padding: 5px 5px 5px 5px;
+	 }
+	 .body-container .affiliated-block ul li span {
+		 font-size: 15px;
+		 line-height: 20px;
+		 padding: 0 2px 0 7px;
+	 }
+	 .body-container .beforeapplying-content {
+		 margin-left: 15px;
+		 margin-right: 15px;
+	 }
+	 .body-container .beforeapplying-block-title h4{
+		 font-size: 20px;
+		 line-height: 27px;
+	 }
+	 .body-container .service-tab-content {
+		 padding: 0 15px;
+	 }
+	 .body-container .showexhibition-tab-heading .ant-btn-primary{
+		 width: 100px;
+		 font-size: 16px;
+		 margin: 0 2px;
+	 }
+	 .body-container .show-exhibition-tab span.tab-title-content span.tab-title-name{
+		 padding: 3px;
+		 text-align: center;
+	 }
+	 .body-container  .showexhibition-slider {
+		 justify-content: space-around;
+		 flex-wrap: wrap;
+		 padding: 0;
+	 }
+	 .body-container .ticket-page-content {
+		 display: flex;
+		 flex-direction: row-reverse;
+		 padding-top: 40px;
+	 }
+	 .body-container  .ticket-text-content{
+		 padding-top: 0;
+	 }
+	 .body-container .buy-ticket-block {
+		 margin-top: 0;
+		 margin-left: 20px;
+		 float: none;
+	 }
+	 .body-container .ticket-page-content.display-flex-none {
+		 display: block;
+	 }
+
+
+ }
+
+@media screen and (max-width: 991px) {
+	.body-container .ticket-page-content{
+		display: block;
+	}
+	.body-container .buy-ticket-block {
+		margin: 0 0 30px 0;
+		float: none;
+		width: 100%;
+	}
+	.body-container .ticket-text-content {
+		padding-top: 0;
+		width: 100%;
+	}
+	.body-container .seatbooking-seletion img {
+		width: auto;
+		max-width: 100%;
+	}
+
+	.header-container  .main-menu ul li {
+		margin: 0;
+		padding: 0 4px;
+	}
+	.header-container  .main-menu ul li a {
+		font-size: 14px;
+	}
+	.grab-service-quick .grab-service-quick-body h3{
+		font-size: 25px;
+	}
+	.grab-service-quick .grab-service-quick-body p{
+		font-size: 15px;
+	}
+	.grab-service-quick .grab-service-item ul li {
+		padding: 8px;
+		margin: 10px 2px;
+		flex-basis: 130px;
+		height: auto;
+		width: 130px;
+	}
+	.grab-service-quick .grab-service-item ul li label {
+		font-size: 12px;
+	}
+	.myfooter-container .footer-top-shape {
+		height: 40px;
+	}
+	.laboratorygraphic img {
+		max-width: 130px;
+	}
+	.copyright-text{
+		font-size: 15px;
+	}
+	.landing-home-content-picture {
+		text-align: left;
+	}
+	.landing-home-content-body .ant-row {
+		flex-direction: column;
+	}
+	.landing-home-content-body .ant-row .ant-col{
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.landing-home-content-body .landing-home-text p{
+		max-width: 100%;
+	}
+	.service-content-slider .service-item {
+		padding: 0;
+	}
+	.choose-service-content .filter-card-content ul li span{
+		font-size: 12px;
+	}
+	.choose-service-content .filter-card .ant-card-head-title {
+		font-size: 13px;
+	}
+	.body-container  .stepof-check-link{
+		flex-basis: 16%;
+	}
+	.body-container  .find-service-leftpart {
+		flex-basis: 250px;
+	}
+	.body-container  .find-service-rightpart {
+		flex-basis: calc(100% - 250px);
+	}
+	.body-container  .find-service-leftpart .ant-collapse-icon-position-right > .ant-collapse-item > .ant-collapse-header{
+		font-size: 15px;
+		padding: 20px 40px;
+	}
+	.body-container  .find-service-title-icon img {
+		width: 20px;
+	}
+	.body-container  .find-service-title-icon{
+		top: 17px;
+	}
+	.body-container  .find-specific-service ul li span{
+		font-size: 13px;
+		line-height: 16px;
+	}
+	.body-container  .find-specific-service ul li .find-specific-service-active{
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.body-container  .find-specific-service ul li a{
+		padding-left: 10px;
+	}
+	.body-container  .find-service-navigation span{
+		font-size: 12px;
+		padding-right: 5px;
+	}
+	.body-container  .find-specific-loadservice ul li span{
+		font-size: 13px;
+	}
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+	.company-logo-inner-right h1,
+	.company-logo-inner-right h2 {
+		display: none;
+	}
+
+	.company-logo-inner-right .hide {
+		display: block;
+	}
+
+	.myfooter-container .paperplaneshape {
+		display: none;
+	}
+
+	.header-container .header-top-content-body {
+		flex-direction: column;
+	}
+
+	.header-container .header-top-left {
+		text-align: center;
+		font-size: 12px;
+		display: none;
+	}
+
+	.header-container .header-top-content {
+		height: 45px;
+	}
+
+	.header-container .header-bottom-content {
+		margin-top: 0;
+		padding-top: 10px;
+		height: 85px;
+	}
+
+	.header-container .header-bottom-content-body {
+		padding: 0 10px;
+	}
+
+	.company-logo .company-logo-inner-left img {
+		max-width: 60px;
+		height: auto;
+		display: block;
+	}
+
+	.header-container .header-top-right {
+		justify-content: center;
+		padding-top: 4px;
+	}
+
+	.header-container .header-login-code {
+		font-size: 15px;
+		top: 7px;
+	}
+
+	.header-container .header-language span {
+		font-size: 15px;
+	}
+
+	.header-container .header-language .ant-form-item {
+		margin-bottom: 0;
+	}
+
+	.company-logo-inner-right .hide {
+		font-size: 17px;
+		line-height: 18px;
+	}
+
+	.header-container .main-menu-desktop {
+		display: none;
+	}
+
+	.header-container .left-menu,
+	.header-container input#show-menu {
+		display: block;
+	}
+
+	.header-container .left-menu .main-menu ul {
+		margin: 0;
+		padding: 0;
+		position: unset;
+		top: 0;
+	}
+
+	.header-container .left-menu .main-menu ul li {
+		display: block;
+		margin: 0;
+		padding: 6px 4px;
+
+	}
+
+	.body-container .search-portal-content h3 {
+		font-size: 18px;
+		line-height: 28px;
+		font-weight: 600;
+	}
+
+	.body-container .service-content {
+		padding: 0 15px 40px 15px;
+	}
+
+	.body-container .service-content h3 {
+		font-size: 25px;
+		line-height: 35px;
+	}
+
+	.body-container .service-content h4 {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.body-container .service-content .service-content-slider {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.body-container .service-content-slider .service-item {
+		padding: 0 5px 15px 5px;
+	}
+
+	.body-container .choose-service-content h3 {
+		font-size: 22px;
+		line-height: 35px;
+	}
+
+	.body-container .choose-service-content h4 {
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.body-container .choose-service-content {
+		padding: 0 15px 45px 15px;
+	}
+
+	.body-container .choose-service-content .choose-service-content-detail {
+		justify-content: center;
+		flex-direction: column;
+		padding: 0;
+	}
+
+	.body-container .choose-service-content .ant-card.filter-card {
+		width: 100%;
+		margin: 0 0 30px 0;
+	}
+
+	.body-container .choose-service-content .find-service-link {
+		padding: 0;
+		margin-top: -8px;
+	}
+
+	.body-container .choose-service-content .find-service-link a {
+		width: 175px;
+		font-size: 16px;
+		height: 50px;
+		line-height: 50px;
+	}
+
+	.body-container .choose-service-content .find-service-link a span {
+		padding-left: 0;
+	}
+
+	.body-container .grab-service-quick {
+		height: auto;
+		padding: 40px 0 40px 0;
+	}
+
+	.body-container .grab-service-quick .grab-service-item {
+		overflow: hidden;
+		margin: 0 auto;
+		max-width: 285px;
+	}
+
+	.body-container .grab-service-quick .grab-service-quick-body h3 {
+		font-size: 25px;
+		text-align: center;
+		padding: 0;
+	}
+
+	.body-container .grab-service-quick .grab-service-quick-body p {
+		font-size: 15px;
+		text-align: center;
+	}
+
+	.body-container .landing-home-content {
+		padding: 30px 0 30px 0;
+	}
+
+	.body-container .landing-home-content-rightpart {
+		padding: 0;
+	}
+
+	.body-container .landing-home-content-picture {
+		text-align: center;
+	}
+
+	.body-container .landing-home-text h4 {
+		font-size: 25px;
+		text-align: center;
+		padding: 0 0 10px 0;
+		margin: 0;
+	}
+
+	.body-container .landing-home-content-body .landing-home-text p {
+		max-width: 100%;
+		font-size: 16px;
+		line-height: 22px;
+		text-align: center;
+	}
+
+	.body-container .landing-home-content .read-more-link {
+		text-align: center;
+		padding: 30px 0 0 0;
+	}
+
+	.body-container .landing-home-content .read-more-link a {
+		width: 175px;
+		font-size: 16px;
+		height: 50px;
+		line-height: 50px;
+	}
+
+	.body-container .landing-home-content .read-more-link a span {
+		padding-right: 0;
+	}
+
+	.body-container .search-content-body {
+		display: block;
+		height: 225px;
+		padding: 0 0 23px 0;
+	}
+
+	.body-container .search-content-middle {
+		padding: 10px 0 10px 0;
+	}
+
+	.body-container .search-portal-content {
+		position: relative;
+		padding: 25px 0 70px 0;
+	}
+
+	.body-container .search-portal-content .search-note {
+		color: #fff;
+		font-size: 15px;
+		line-height: 20px;
+		padding: 10px 0 0 0;
+		margin: 0 auto;
+		max-width: 300px;
+	}
+
+	.body-container .search-content .search-content-left label {
+		text-align: center;
+	}
+
+	.body-container .service-dropdown {
+		position: relative;
+		top: 3px;
+		margin: 0 auto;
+		max-width: 170px;
+	}
+
+	.body-container .service-dropdown .ant-select-selector span.ant-select-selection-item {
+		text-align: center;
+	}
+
+	.body-container .search-content .search-content-middle label {
+		text-align: center;
+		background-color: #e9ebef;
+		position: relative;
+		z-index: 1;
+		display: inline-block;
+		bottom: -13px;
+		padding: 0 10px;
+	}
+
+	.body-container .search-content .search-btn button {
+		width: 175px;
+		height: 50px;
+		font-size: 22px;
+		line-height: 20px;
+		padding: 0;
+		margin: 0;
+	}
+
+	.body-container .search-content-middle input {
+		text-align: center;
+		border: 1px solid #ccc !important;
+		width: 90%;
+		padding: 5px 16px 2px 16px;
+		height: 45px;
+		border-radius: 4px;
+	}
+
+	.body-container .service-dropdown .ant-row.ant-form-item,
+	.body-container .search-content-middle .ant-row.ant-form-item {
+		margin-bottom: 0;
+	}
+
+	.body-container .search-content-right {
+		text-align: center;
+	}
+
+	.myfooter-container .footer-top-shape {
+		height: auto;
+		margin-bottom: -7px;
+	}
+
+	.myfooter-container .dnashape,
+	.myfooter-container .laboratorygraphic {
+		display: none;
+	}
+
+	.myfooter-container .footer-top {
+		flex-direction: column;
+	}
+
+	.myfooter-container .footer-bottom {
+		flex-direction: column;
+	}
+
+	.myfooter-container .footer-bottom-link a {
+		font-size: 14px;
+	}
+
+	.myfooter-container .developed-by {
+		text-align: center;
+		font-size: 13px;
+		padding: 3px 0 0 0;
+	}
+
+	.myfooter-container .social-link {
+		text-align: center;
+	}
+
+	.myfooter-container .footer-social-link {
+		padding: 20px 0 0 0;
+	}
+
+	.myfooter-container .footer-social-link h4 {
+		text-align: center;
+		font-size: 15px;
+		line-height: 20px;
+		padding: 0 0 7px 0;
+		margin: 0;
+	}
+
+	.myfooter-container .copyright-text br {
+		display: none;
+	}
+
+	.myfooter-container .copyright-text {
+		text-align: center;
+		font-size: 15px;
+		line-height: 23px;
+		padding: 15px 0 0 0;
+		margin: 0;
+	}
+
+	/*start:*/
+	.body-container .grant-fellowship-content {
+		padding: 0 10px;
+	}
+
+	.body-container .grant-fellowship-content-text {
+		padding: 15px;
+	}
+
+	.body-container .grant-fellowship-content h3 {
+		font-size: 27px;
+		line-height: 30px;
+		padding: 20px 0 40px 0;
+	}
+
+	.body-container .grant-fellowship-content-text p {
+		font-size: 16px;
+		line-height: 22px;
+		padding: 0;
+		margin: 0;
+	}
+
+	.body-container .service-content-area {
+		padding: 40px 15px 0 15px;
+	}
+
+	.body-container .service-tab-title h4 {
+		text-align: center;
+		font-size: 20px;
+		line-height: 25px;
+		padding: 0 0 15px 0;
+		margin: 0;
+	}
+
+	.body-container .service-tab-filter .ant-col {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.body-container .service-tab-filter {
+		padding: 15px;
+	}
+
+	.body-container .service-tab-content .filter-block-input .ant-form-item,
+	.body-container .serviceseeker-block-input .ant-form-item {
+		margin-bottom: 0;
+	}
+
+	.body-container .service-tab-content .serviceseeker-block-input,
+	.body-container .service-tab-content .filter-block-input {
+		height: auto;
+	}
+
+	.body-container .serviceseeker-btn {
+		text-align: center;
+	}
+
+	.body-container .service-tab-content .ant-tabs-content-holder .ant-tabs-content {
+		padding: 15px;
+	}
+
+	.body-container .tab-data-row {
+		flex-direction: column;
+	}
+
+	.body-container .tabdata-picture {
+		text-align: center;
+	}
+
+	.body-container .tabdata-text-small {
+		text-align: center;
+		font-size: 16px;
+		line-height: 22px;
+		padding: 7px 0 0 0;
+	}
+
+	.body-container .tabdata-text {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.body-container .tabdata-text h3 {
+		text-align: center;
+		font-size: 20px;
+		line-height: 25px;
+		padding: 0;
+	}
+
+	.body-container .tabdata-text p {
+		font-size: 15px;
+		line-height: 25px;
+		text-align: center;
+	}
+
+	.body-container .tabdata-btn {
+		text-align: center;
+		padding: 15px 0 0 0;
+	}
+
+	.body-container .tabdata-btn .detail-btn {
+		width: 175px;
+		font-size: 16px;
+		height: 50px;
+		line-height: 50px
+	}
+
+	.body-container .tabdata-btn .apply-btn {
+		width: 175px;
+		font-size: 16px;
+		height: 50px;
+		line-height: 50px
+	}
+
+	.body-container .tab-data-content .tabdata-btn button + button {
+		margin-top: 10px;
+	}
+
+	/*end*/
+	.body-container .affiliated-org-body-inner {
+		flex-direction: column;
+	}
+
+	.body-container .affiliated-block {
+		min-height: auto;
+		width: 100%;
+		margin: 0;
+	}
+
+	.body-container .affiliated-block + .affiliated-block {
+		margin-top: 20px;
+	}
+
+	.body-container .affiliated-org-heading {
+		position: relative;
+		height: auto;
+	}
+
+	.body-container .affiliated-org-heading .serviceseeker-btn {
+		position: relative;
+		right: auto;
+		top: 0;
+	}
+
+	.body-container .beforeapplying-content {
+		flex-direction: column;
+	}
+
+	.body-container .beforeapplying-block-title h4 {
+		font-size: 13px;
+		line-height: 20px;
+		padding: 10px 0 0 0;
+	}
+
+	.body-container .grantfellow-text-small {
+		font-size: 20px;
+		margin: 0;
+		padding: 14px 0 3px 0;
+		line-height: 23px;
+	}
+
+	.body-container .beforeapplying-block-content ul li {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	.body-container .service-content-area h3 {
+		text-align: center;
+		font-size: 23px;
+		line-height: 15px;
+		padding: 0 0 10px 0;
+		margin: 0;
+	}
+
+	.body-container .showexhibition-item {
+		width: 100%;
+		height: auto;
+	}
+
+	.body-container .showexhibition-item-body {
+		height: auto;
+	}
+
+	.body-container .request-ticket-content-body .ant-row {
+		flex-direction: column;
+	}
+
+	.body-container .request-ticket-content-body .ant-row .ant-col {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	.body-container .request-ticket-picture {
+		text-align: center;
+	}
+
+	.body-container .request-ticket-rightpart {
+		padding: 10px 0 0 0;
+	}
+
+	.body-container .request-ticket-text h4 {
+		font-size: 20px;
+		text-align: center;
+		line-height: 20px;
+		padding: 0 0 5px 0;
+		margin: 0;
+	}
+
+	.body-container .request-ticket-text p {
+		font-size: 16px;
+		text-align: center;
+		line-height: 20px;
+		padding: 0 0 5px 0;
+		margin: 0;
+	}
+
+	.body-container .apply-ticket-link {
+		text-align: center;
+		padding: 10px 0 0 0;
+	}
+
+	.body-container .apply-ticket-link a {
+		width: 175px;
+		font-size: 16px;
+		height: 50px;
+		line-height: 50px
+	}
+
+	.body-container .service-tab-content .ant-tabs-content-holder {
+		padding-bottom: 20px;
+	}
+
+	.body-container .service-content-area h4 {
+		font-size: 16px;
+	}
+
+	.showexhibition-tab-heading {
+		display: block;
+		padding: 0 6px 6px 6px;
+	}
+
+	.showexhibition-tab-heading .ant-form-item {
+		display: inline-block;
+		margin: 0;
+	}
+
+	.body-container .showexhibition-tab-heading .ant-btn-primary {
+		width: auto;
+		font-size: 12px;
+		margin: 0 2px;
+		height: 26px;
+		padding: 0 5px;
+	}
+
+	.body-container .showexhibition-item-body h3 {
+		font-size: 16px;
+	}
+
+	.body-container .showexhibition-item-payment,
+	.body-container .showexhibition-item-datetime,
+	.body-container .showexhibition-item-calendar {
+		font-size: 14px;
+	}
+
+	.body-container .showexhibition-item-payment {
+		margin: 0;
+	}
+	.body-container .showexhibition-item-footer p {
+		font-size: 16px;
+	}
+	.body-container .buy-ticket-btn .ant-btn-primary {
+		width: 135px;
+		height: 35px;
+		font-size: 16px;
+		line-height: 20px;
+		margin: 0;
+	}
+	.body-container .buy-ticket-btn {
+		text-align: left;
+		padding: 10px 0 0 0;
+	}
+	.body-container .buy-ticket-btn h6 {
+		text-align: left;
+	}
+	.body-container .show-exhibition-tab .ant-tabs-nav-list {
+		flex-direction: column;
+	}
+	.body-container .ticket-page-content p {
+		font-size: 16px;
+		line-height: 25px;
+		padding: 0 0 15px 0;
+		margin: 0;
+	}
+	.body-container .ticket-page-content h3 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.body-container .ticket-page-content.display-flex-none {
+		display: block;
+		padding-top: 0;
+	}
+	.body-container .buyticket-block-content {
+		padding: 15px;
+	}
+	.body-container .buyticket-submit-btn .ant-btn-primary {
+		width: 135px;
+		height: 35px;
+		font-size: 16px;
+		line-height: 20px;
+		margin: 0;
+	}
+	.body-container .buyticket-submit-btn .ant-btn-primary img {
+		margin: 0 4px 0 0;
+		height: 16px;
+		object-fit: cover;
+	}
+
+	.body-container .ticket-page-content {
+		padding-top: 60px;
+	}
+	.body-container .prerequisite-instruction .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.body-container .prerequisite-content {
+		flex-direction: column;
+	}
+	.body-container .stepof-prerequisite-header {
+		flex-direction: column;
+	}
+	.body-container .stepof-check-link {
+		flex-basis: 100%;
+		margin-top: 9px;
+		height: auto;
+		padding: 10px 0;
+	}
+	.body-container .stepof-prerequisite-body .ant-row {
+		display: block;
+		margin: 15px 0 0 0;
+	}
+	.body-container .stepof-prerequisite-body .ant-form-item {
+		margin-bottom: 0;
+	}
+	.body-container .prerequisite-instruction {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.body-container .beforeapplying-block {
+		padding-bottom: 20px;
+	}
+	.body-container .find-service-content {
+		max-width: 100%;
+		display: block;
+		padding: 0;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.body-container .find-service-leftpart {
+		flex-basis: 100%;
+		padding: 0;
+	}
+	.body-container .find-service-rightpart {
+		flex-basis: 100%;
+		padding: 20px;
+	}
+	.body-container .find-specific-loadservice ul li a {
+		position: relative;
+		padding-left: 50px;
+		min-height: 45px;
+		padding-top: 0;
+	}
+	.body-container .find-specific-loadservice ul li label {
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+	.body-container .find-type-hereto-filter   ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+		font-size: 18px;
+	}
+	.body-container .find-type-hereto-filter  ::-moz-placeholder { /* Firefox 19+ */
+		font-size: 18px;
+	}
+	.body-container  .find-type-hereto-filter  :-ms-input-placeholder { /* IE 10+ */
+		font-size: 18px;
+	}
+
+
+
+}
