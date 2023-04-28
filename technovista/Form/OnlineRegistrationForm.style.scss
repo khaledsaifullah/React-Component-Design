@@ -1,0 +1,60 @@
+$hearder_red:rgb(100, 3, 3);
+$heading-color: rgb(151, 52, 52);
+$margin:3px;
+$zero:0;
+$green:rgb(10, 85, 29);
+#header_devider{
+    color: $hearder_red;
+}
+.main_header_text{
+    margin-top: $margin;
+    padding-top: $margin;
+    margin-bottom: $zero;
+    padding-bottom: $zero;
+    color:$hearder_red;
+}
+.header_text{
+    margin-top: $margin;
+    padding-top: $margin;
+    margin-bottom: $zero;
+    padding-bottom: $zero;
+    color: $heading-color;
+}
+.ant-divider{
+    background-color: $heading-color;
+     padding: 0;
+     margin: 0;
+}
+
+.profile_image{
+    padding:$zero;
+    margin: $zero;
+ }
+
+.ant-form-item-label> label{
+    color: $green;
+}
+.ant-form-item-control-input {
+    border:1px solid $green;
+}
+.date_picker{
+    width: 100%;
+}
+.date_picker:hover,.date_picker:focus{
+   border-color: #e9ec1d;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(87,168,233, .2);
+    box-shadow: 0 0 0 2px rgba(87,168,233, .2);
+}
+.ant-input:hover, .ant-input:focus {
+    border-color: #e9ec1d;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(87,168,233, .2);
+    box-shadow: 0 0 0 2px rgba(87,168,233, .2);
+}
+.ant-select-selector:hover, .ant-select-selector:focus {
+   border-color: #e9ec1d !important;
+    outline: 0 !important;
+    -webkit-box-shadow: 0 0 0 2px rgba(87,168,233, .2) !important;
+    box-shadow: 0 0 0 2px rgba(140, 179, 211, 0.2) !important;
+}
