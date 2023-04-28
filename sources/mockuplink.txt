@@ -1,0 +1,18 @@
+Python manage.py runserver
+
+http://127.0.0.1:8000/api/
+{
+    "Customer": "http://127.0.0.1:8000/api/Customer/",
+    "Merchant": "http://127.0.0.1:8000/api/Merchant/",
+    "Service": "http://127.0.0.1:8000/api/Service/",
+    "AppointmentService": "http://127.0.0.1:8000/api/AppointmentService/",
+    "Appointment": "http://127.0.0.1:8000/api/Appointment/"
+}
+-------------------------------
+https://v5.reactrouter.com/web/api/Link
+
+https://www.figma.com/file/xBGnFBB85tn5qtf9DbS3BX/LeapoN_Specs-File?node-id=0%3A1
+
+
+
+https://v5.reactrouter.com/web/api/Link

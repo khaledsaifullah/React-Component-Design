@@ -1,0 +1,117 @@
+.merchantlanding-calender-content {
+    padding: 10px 0 40px 0;
+}
+.merchantlanding-calender-item {
+    display: flex;
+    background: #fff;
+    border-left: 7px solid #FF9900;
+    padding: 10px 13px;
+    justify-content: left;
+    box-shadow: 2px 2px 4px rgb(0 0 0 / 25%);
+}
+.merchantlanding-calender-item + .merchantlanding-calender-item {
+    margin-top: 15px;
+}
+
+.merchantlanding-calender {
+    text-align: left;
+}
+.merchantlanding-calender-result {
+    border-top: 1px solid #C4C4C4;
+    padding: 20px 0 0 0;
+    margin: 20px 0 0 0;
+}
+.merchantlanding-calender-datetime {
+    font-family: 'Lemon Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    color: #3F1569;
+    text-align: left;
+    padding: 20px 0 10px 0;
+}
+
+.merchantlanding-calender-itemleftpart {
+    padding: 0 15px 0 0;
+    flex-basis: 90px;
+}
+.merchantlanding-calender-itemleftpart h5 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lemon Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.merchantlanding-calender-itemleftpart p {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-family: 'Lemon Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #898989;
+}
+.merchantlanding-calender-itemrightpart h3 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lemon Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #333333;
+    text-align: left;
+}
+.merchantlanding-calender-itemrightpart p {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lemon Sans';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 16px;
+    color: #898989;
+    text-align: left;
+}
+.merchantlanding-calender-upnext {
+    text-align: left;
+    padding: 0 0 5px 0;
+}
+.merchantlanding-calender-upnext button {
+    background: #FF9900;
+    border-radius: 15px;
+    padding: 3px 14px;
+    border: none;
+    font-family: 'Lemon Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+.merchantlanding-calender-upnext button:hover {
+    background: #000;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+
+
+
+
+
+
+
